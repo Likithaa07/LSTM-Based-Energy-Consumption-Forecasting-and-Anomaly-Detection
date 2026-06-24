@@ -44,6 +44,7 @@ App:             Streamlit / Flask (app.py)
 
 - Project Structure
 
+```
 ├── AEP_hourly.csv                  # Raw hourly energy dataset
 ├── MultivariateLSTMproject.ipynb   # Full training pipeline
 ├── energy_forecast_model.h5        # Saved trained LSTM model
@@ -51,7 +52,7 @@ App:             Streamlit / Flask (app.py)
 ├── vis_df.pkl                      # Pre-processed data for visualisation
 ├── app.py                          # Web application
 └── README.md
-
+```
 
 - Future Improvements
 
